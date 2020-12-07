@@ -8,5 +8,5 @@ Credit for city photos goes to unsplash.com
 - [Visit](https://htmlpreview.github.io/?https://github.com/stavrify/worldclock/index.html)
 
 ## Preview
-![alt text](https://github.com/stavrify/worldclock/blob/img/preview.png?raw=true)
+![With Athens Background](https://github.com/stavrify/worldclock/blob/main/img/preview.png)
 
