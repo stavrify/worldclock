@@ -9,3 +9,5 @@ Credit for city photos goes to unsplash.com
 ## Preview
 ![With Athens Background](https://github.com/stavrify/worldclock/blob/main/img/preview.png)
 
+![With Athens Background](https://github.com/stavrify/worldclock/blob/main/img/preview1.gif)
+
